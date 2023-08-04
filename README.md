@@ -11,7 +11,7 @@
 <p>2023 상반기 : KUIT 2기 회장</p>
 
 <h3>Now..</h3>
-백엔드 개발자를 위한 도약을 위해 다음을 공부하고 있는 중입니다!
+백엔드 개발자 도약을 위해 다음을 공부하고 있는 중입니다!
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=green" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white" />

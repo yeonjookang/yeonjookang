@@ -6,9 +6,9 @@
 </p>
 
 <h3>Activity</h3>
-<p>2022 상반기 : UMC 3기 Android 파트 수료</p>
-<p>2022 하반기 : KUIT 1기 Server 파트 수료</p>
-<p>2023 상반기 : KUIT 2기 회장</p>
+<p>2022 하반기 : UMC 3기 Android 파트 수료</p>
+<p>2023 상반기 : KUIT 1기 Server 파트 수료</p>
+<p>2023 하반기 : KUIT 2기 회장</p>
 
 <h3>Now..</h3>
 백엔드 개발자가 되기 위해 다음을 공부하고 있는 중입니다!
